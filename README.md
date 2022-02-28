@@ -18,4 +18,4 @@ void showCustomRangePicker() async {
 
 ## Images
 
-![img](https://github.com/hengmengsroin/dialog-date-range-picker/raw/master/z_date_range_picker/res/date_range_picker.png)
+![img](https://github.com/hengmengsroin/dialog-date-range-picker/blob/main/res/date_range_picker.jpg)
